@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-07-02T09:24:05.929801+00:00",
+  "lookbackHours": 24,
+  "x": [],
+  "stats": {
+    "xBuilders": 0,
+    "totalTweets": 0
+  },
+  "errors": [
+    "X user lookup failed: HTTP Error 402: Payment Required"
+  ]
+}

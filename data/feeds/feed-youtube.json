@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-07-02T09:24:07.934278+00:00",
+  "lookbackHours": 336,
+  "items": [
+    {
+      "source": "youtube",
+      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+      "publishedAt": "2026-06-30T12:00:25+00:00",
+      "text": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis"
+    },
+    {
+      "source": "youtube",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T12:00:39+00:00",
+      "text": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin"
+    },
+    {
+      "source": "youtube",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "publishedAt": "2026-06-16T12:00:11+00:00",
+      "text": "Simulating Humans at Scale: Simile's Joon Sung Park"
+    },
+    {
+      "source": "youtube",
+      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "publishedAt": "2026-06-10T12:00:18+00:00",
+      "text": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age"
+    },
+    {
+      "source": "youtube",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "publishedAt": "2026-06-11T12:00:05+00:00",
+      "text": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness"
+    }
+  ],
+  "stats": {
+    "youtubeItems": 5
+  },
+  "errors": null
+}
