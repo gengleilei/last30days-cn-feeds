@@ -1,0 +1,37 @@
+{
+  "xLookbackHours": 24,
+  "podcastLookbackHours": 336,
+  "maxTweetsPerUser": 3,
+  "x_accounts": [
+    {"name": "AWS Cloud", "handle": "awscloud"},
+    {"name": "Amazon Web Services", "handle": "awscloud"},
+    {"name": "Google Cloud", "handle": "googlecloud"},
+    {"name": "Google AI Developers", "handle": "googleaidevs"},
+    {"name": "Higress", "handle": "higress_ai"},
+    {"name": "CNCF", "handle": "CloudNativeFdn"},
+    {"name": "Anthropic", "handle": "AnthropicAI"},
+    {"name": "OpenAI Developers", "handle": "OpenAIDevs"},
+    {"name": "LangChain", "handle": "LangChainAI"},
+    {"name": "Harrison Chase", "handle": "hwchase17"},
+    {"name": "Swyx", "handle": "swyx"},
+    {"name": "Alex Albert", "handle": "alexalbert__"},
+    {"name": "Peter Steinberger", "handle": "steipete"}
+  ],
+  "podcasts": [
+    {
+      "name": "Latent Space",
+      "rssUrl": "https://pod2txt.vercel.app/api/feed?url=https://api.substack.com/feed/podcast/1084089.rss",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    },
+    {
+      "name": "No Priors",
+      "rssUrl": "https://feeds.megaphone.fm/nopriors",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    },
+    {
+      "name": "Training Data",
+      "rssUrl": "https://feeds.megaphone.fm/trainingdata",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  ]
+}
