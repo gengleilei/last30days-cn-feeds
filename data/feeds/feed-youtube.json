@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-07T10:03:44.597264+00:00",
+  "generatedAt": "2026-07-08T09:02:52.927552+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
+      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
+      "publishedAt": "2026-07-07T12:00:19+00:00",
+      "text": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents"
+    },
     {
       "source": "youtube",
       "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
       "publishedAt": "2026-06-10T12:00:18+00:00",
       "text": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age"
-    },
-    {
-      "source": "youtube",
-      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
-      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
-      "publishedAt": "2026-06-11T12:00:05+00:00",
-      "text": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness"
     }
   ],
   "stats": {
