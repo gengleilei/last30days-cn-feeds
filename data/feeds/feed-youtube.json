@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-14T08:31:30.668267+00:00",
+  "generatedAt": "2026-07-15T08:38:50.769111+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:37+00:00",
+      "text": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden"
+    },
     {
       "source": "youtube",
       "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
       "publishedAt": "2026-06-16T12:00:11+00:00",
       "text": "Simulating Humans at Scale: Simile's Joon Sung Park"
-    },
-    {
-      "source": "youtube",
-      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
-      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
-      "publishedAt": "2026-06-10T12:00:18+00:00",
-      "text": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age"
     }
   ],
   "stats": {
