@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-21T09:05:51.332503+00:00",
+  "generatedAt": "2026-07-22T09:04:15.678662+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
+      "publishedAt": "2026-07-21T12:00:08+00:00",
+      "text": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself"
+    },
     {
       "source": "youtube",
       "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
       "publishedAt": "2026-06-24T12:00:39+00:00",
       "text": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin"
-    },
-    {
-      "source": "youtube",
-      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
-      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
-      "publishedAt": "2026-06-16T12:00:11+00:00",
-      "text": "Simulating Humans at Scale: Simile's Joon Sung Park"
     }
   ],
   "stats": {
