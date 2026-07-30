@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-29T09:17:30.143162+00:00",
+  "generatedAt": "2026-07-30T09:08:04.535092+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
+      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
+      "publishedAt": "2026-07-29T12:00:38+00:00",
+      "text": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil"
+    },
     {
       "source": "youtube",
       "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
       "publishedAt": "2026-06-30T12:00:25+00:00",
       "text": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis"
-    },
-    {
-      "source": "youtube",
-      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
-      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
-      "publishedAt": "2026-06-24T12:00:39+00:00",
-      "text": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin"
     }
   ],
   "stats": {
