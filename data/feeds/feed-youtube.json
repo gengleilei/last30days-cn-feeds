@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-04T09:16:12.791474+00:00",
+  "generatedAt": "2026-08-05T09:13:31.473238+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
+      "publishedAt": "2026-08-04T12:00:29+00:00",
+      "text": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem"
+    },
     {
       "source": "youtube",
       "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
       "publishedAt": "2026-07-07T12:00:19+00:00",
       "text": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents"
-    },
-    {
-      "source": "youtube",
-      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
-      "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
-      "publishedAt": "2026-06-30T12:00:25+00:00",
-      "text": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis"
     }
   ],
   "stats": {
