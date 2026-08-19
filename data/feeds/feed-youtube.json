@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-18T07:10:04.305349+00:00",
+  "generatedAt": "2026-08-19T07:10:49.795024+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "publishedAt": "2026-08-18T12:00:06+00:00",
+      "text": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again"
+    },
     {
       "source": "youtube",
       "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
       "publishedAt": "2026-07-14T09:00:37+00:00",
       "text": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden"
-    },
-    {
-      "source": "youtube",
-      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
-      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
-      "publishedAt": "2026-07-07T12:00:19+00:00",
-      "text": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents"
     }
   ],
   "stats": {
