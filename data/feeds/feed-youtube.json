@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-25T07:13:28.576969+00:00",
+  "generatedAt": "2026-08-26T07:13:45.423047+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
+      "url": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
+      "publishedAt": "2026-08-25T12:00:23+00:00",
+      "text": "Parallel’s Parag Agrawal: Building a New Web for AI Agents"
+    },
     {
       "source": "youtube",
       "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
       "publishedAt": "2026-07-21T12:00:08+00:00",
       "text": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself"
-    },
-    {
-      "source": "youtube",
-      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
-      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
-      "publishedAt": "2026-07-14T09:00:37+00:00",
-      "text": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden"
     }
   ],
   "stats": {
