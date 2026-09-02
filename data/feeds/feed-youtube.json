@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-09-01T11:48:41.673636+00:00",
+  "generatedAt": "2026-09-02T11:29:17.511301+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
+      "publishedAt": "2026-09-01T12:00:16+00:00",
+      "text": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph"
+    },
     {
       "source": "youtube",
       "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
       "publishedAt": "2026-07-29T12:00:38+00:00",
       "text": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil"
-    },
-    {
-      "source": "youtube",
-      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
-      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
-      "publishedAt": "2026-07-21T12:00:08+00:00",
-      "text": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself"
     }
   ],
   "stats": {
