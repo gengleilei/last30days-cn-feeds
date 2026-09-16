@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-09-15T11:53:34.822312+00:00",
+  "generatedAt": "2026-09-16T11:49:46.824704+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
+      "publishedAt": "2026-09-15T12:00:34+00:00",
+      "text": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion"
+    },
     {
       "source": "youtube",
       "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
       "publishedAt": "2026-08-04T12:00:29+00:00",
       "text": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem"
-    },
-    {
-      "source": "youtube",
-      "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
-      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
-      "publishedAt": "2026-07-29T12:00:38+00:00",
-      "text": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil"
     }
   ],
   "stats": {
