@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-05T14:58:49.312704+00:00",
+  "generatedAt": "2026-10-06T13:26:19.637928+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
+      "url": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
+      "publishedAt": "2026-10-06T12:00:27+00:00",
+      "text": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI"
+    },
     {
       "source": "youtube",
       "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
       "publishedAt": "2026-08-18T12:00:06+00:00",
       "text": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again"
-    },
-    {
-      "source": "youtube",
-      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
-      "publishedAt": "2026-08-04T12:00:29+00:00",
-      "text": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem"
     }
   ],
   "stats": {
