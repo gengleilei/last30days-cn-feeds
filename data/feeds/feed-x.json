@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T13:28:56.251644+00:00",
+  "generatedAt": "2026-10-10T12:44:04.058251+00:00",
   "lookbackHours": 24,
   "x": [],
   "stats": {
@@ -7,6 +7,17 @@
     "totalTweets": 0
   },
   "errors": [
-    "X user lookup failed: HTTP Error 402: Payment Required"
+    "X tweets failed for @awscloud: HTTP Error 400: Bad Request",
+    "X tweets failed for @awscloud: HTTP Error 400: Bad Request",
+    "X tweets failed for @googlecloud: HTTP Error 400: Bad Request",
+    "X tweets failed for @googleaidevs: HTTP Error 400: Bad Request",
+    "X tweets failed for @higress_ai: HTTP Error 400: Bad Request",
+    "X tweets failed for @CloudNativeFdn: HTTP Error 400: Bad Request",
+    "X tweets failed for @AnthropicAI: HTTP Error 400: Bad Request",
+    "X tweets failed for @OpenAIDevs: HTTP Error 400: Bad Request",
+    "X tweets failed for @hwchase17: HTTP Error 400: Bad Request",
+    "X tweets failed for @swyx: HTTP Error 400: Bad Request",
+    "X tweets failed for @alexalbert__: HTTP Error 400: Bad Request",
+    "X tweets failed for @steipete: HTTP Error 400: Bad Request"
   ]
 }
