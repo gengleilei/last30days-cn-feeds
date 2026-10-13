@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-12T15:45:23.164812+00:00",
+  "generatedAt": "2026-10-13T14:23:48.748315+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "url": "https://www.youtube.com/watch?v=L4SWQebqhek",
+      "publishedAt": "2026-10-13T12:00:32+00:00",
+      "text": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience"
+    },
     {
       "source": "youtube",
       "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
       "publishedAt": "2026-08-25T12:00:23+00:00",
       "text": "Parallel’s Parag Agrawal: Building a New Web for AI Agents"
-    },
-    {
-      "source": "youtube",
-      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
-      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
-      "publishedAt": "2026-08-18T12:00:06+00:00",
-      "text": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again"
     }
   ],
   "stats": {
