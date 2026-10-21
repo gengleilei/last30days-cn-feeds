@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-20T11:51:24.541433+00:00",
+  "generatedAt": "2026-10-21T12:03:12.974384+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
+      "url": "https://www.youtube.com/watch?v=0idrTKCDhuE",
+      "publishedAt": "2026-10-20T12:00:07+00:00",
+      "text": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots"
+    },
     {
       "source": "youtube",
       "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
       "publishedAt": "2026-09-01T12:00:16+00:00",
       "text": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph"
-    },
-    {
-      "source": "youtube",
-      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
-      "url": "https://www.youtube.com/watch?v=fUcnE6pjq5w",
-      "publishedAt": "2026-08-25T12:00:23+00:00",
-      "text": "Parallel’s Parag Agrawal: Building a New Web for AI Agents"
     }
   ],
   "stats": {
