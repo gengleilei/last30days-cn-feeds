@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-28T13:13:53.773749+00:00",
+  "generatedAt": "2026-10-29T13:21:00.072049+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+      "url": "https://www.youtube.com/watch?v=qhIabMKHJlA",
+      "publishedAt": "2026-10-28T12:00:20+00:00",
+      "text": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback"
+    },
     {
       "source": "youtube",
       "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
       "publishedAt": "2026-09-15T12:00:34+00:00",
       "text": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion"
-    },
-    {
-      "source": "youtube",
-      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
-      "url": "https://www.youtube.com/watch?v=JWMF5EpP0KE",
-      "publishedAt": "2026-09-01T12:00:16+00:00",
-      "text": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph"
     }
   ],
   "stats": {
