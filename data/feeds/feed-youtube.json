@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-11-04T14:42:33.171393+00:00",
+  "generatedAt": "2026-11-05T14:47:55.095848+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "Bringing Continual Learning to Every Company: Trajectory’s Ronak Malde",
+      "url": "https://www.youtube.com/watch?v=32vxW6GMeLY",
+      "publishedAt": "2026-11-05T13:00:07+00:00",
+      "text": "Bringing Continual Learning to Every Company: Trajectory’s Ronak Malde"
+    },
     {
       "source": "youtube",
       "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
       "publishedAt": "2026-10-06T12:00:27+00:00",
       "text": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI"
-    },
-    {
-      "source": "youtube",
-      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
-      "url": "https://www.youtube.com/watch?v=NE4CLThMPGU",
-      "publishedAt": "2026-09-15T12:00:34+00:00",
-      "text": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion"
     }
   ],
   "stats": {
