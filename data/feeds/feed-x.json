@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:39:11.450970+00:00",
+  "generatedAt": "2026-11-09T16:39:23.069513+00:00",
   "lookbackHours": 24,
   "x": [],
   "stats": {
@@ -7,17 +7,6 @@
     "totalTweets": 0
   },
   "errors": [
-    "X tweets failed for @awscloud: HTTP Error 402: Payment Required",
-    "X tweets failed for @awscloud: HTTP Error 402: Payment Required",
-    "X tweets failed for @googlecloud: HTTP Error 402: Payment Required",
-    "X tweets failed for @googleaidevs: HTTP Error 402: Payment Required",
-    "X tweets failed for @higress_ai: HTTP Error 402: Payment Required",
-    "X tweets failed for @CloudNativeFdn: HTTP Error 402: Payment Required",
-    "X tweets failed for @AnthropicAI: HTTP Error 402: Payment Required",
-    "X tweets failed for @OpenAIDevs: HTTP Error 402: Payment Required",
-    "X tweets failed for @hwchase17: HTTP Error 402: Payment Required",
-    "X tweets failed for @swyx: HTTP Error 402: Payment Required",
-    "X tweets failed for @alexalbert__: HTTP Error 402: Payment Required",
-    "X tweets failed for @steipete: HTTP Error 402: Payment Required"
+    "X user lookup failed: HTTP Error 402: Payment Required"
   ]
 }
