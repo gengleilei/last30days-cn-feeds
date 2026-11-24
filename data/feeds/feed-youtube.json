@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-11-23T18:29:36.871212+00:00",
+  "generatedAt": "2026-11-24T17:57:27.141599+00:00",
   "lookbackHours": 336,
   "items": [
+    {
+      "source": "youtube",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "url": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
+      "publishedAt": "2026-11-24T13:00:22+00:00",
+      "text": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)"
+    },
     {
       "source": "youtube",
       "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
@@ -29,13 +36,6 @@
       "url": "https://www.youtube.com/watch?v=L4SWQebqhek",
       "publishedAt": "2026-10-13T12:00:32+00:00",
       "text": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience"
-    },
-    {
-      "source": "youtube",
-      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
-      "url": "https://www.youtube.com/watch?v=bGph8GwB3Sk",
-      "publishedAt": "2026-10-06T12:00:27+00:00",
-      "text": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI"
     }
   ],
   "stats": {
