@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-25T17:26:01.771203+00:00",
+  "generatedAt": "2026-11-26T17:06:35.751351+00:00",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
-  "errors": null
+  "errors": [
+    "RSS failed for No Priors: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>"
+  ]
 }
