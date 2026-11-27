@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:06:35.751368+00:00",
+  "generatedAt": "2026-11-27T16:50:01.831815+00:00",
   "lookbackHours": 336,
   "items": [
     {
@@ -41,7 +41,5 @@
   "stats": {
     "youtubeItems": 5
   },
-  "errors": [
-    "RSS failed for No Priors: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>"
-  ]
+  "errors": null
 }
